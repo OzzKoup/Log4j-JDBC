@@ -1,0 +1,13 @@
+/out/
+/target/
+/checkstyle/
+/lib/
+
+*.classpath
+*.idea/
+*.project
+*.settings/
+*.class
+*.log
+*.txt
+*.iml
